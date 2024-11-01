@@ -2,14 +2,14 @@
 
 ## Description
 
-This project is a simple web application that converts numbers into Roman numerals. It allows users to input a number between 1 and 3999 and receive the corresponding Roman numeral representation. The application handles user input, validation, and displays the result in a user-friendly manner.
+The **Number to Roman Numeral Converter** is a simple web application that converts numbers into Roman numerals. Users can input a number between 1 and 3999 to receive the corresponding Roman numeral representation. The application handles user input, validates it, and displays results in a user-friendly manner.
 
 ## Features
 
 - Input field to enter a number.
 - Convert button to trigger the conversion.
-- Displays an error message for invalid inputs.
-- Allows the user to press "Enter" to perform the conversion.
+- Displays error messages for invalid inputs.
+- Supports pressing "Enter" to perform the conversion.
 - Clear instructions and a brief definition of Roman numerals.
 
 ## User Stories
@@ -35,6 +35,9 @@ This project is a simple web application that converts numbers into Roman numera
 ## How to Use
 
 1. Clone this repository or download the ZIP file.
+   ```bash
+   git clone https://github.com/SyntaxStrategist/Palindrome-Checker.git
+   ```
 2. Open `index.html` in a web browser.
 3. Enter a number between 1 and 3999 in the input field.
 4. Click the "Convert" button or press "Enter" to see the Roman numeral conversion.
